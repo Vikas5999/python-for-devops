@@ -1,0 +1,13 @@
+What is python?
+
+Arithmatic Rules
+
+
+
+
+
+
+Data Types.
+Number(int, float)
+
+Boolean (True/False)
