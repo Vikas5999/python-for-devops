@@ -1,0 +1,50 @@
+git config --global user.name "Vikas5999"
+
+git config --global user.email "apka-github-email"
+
+git config --list
+
+git init
+
+git status
+
+Branch : by default :
+1. master branch     (not use in industries).
+2. main branch
+3. custom branch/feature branch
+
+git add .   (to use branch master)
+git branch -M main
+
+git remote -v (use for fetch and push).
+
+ls : show all files and folder within current folder.
+
+cd .. : go back one step to the directory
+
+cd folder_name : enter to the targeted folder.
+
+these steps always use
+add commit push (sequence of command)
+
+-------------------------
+1. modified : new.py
+2. delete : env
+3. new file : second.py
+
+git add . 
+git add new.py
+git commit -m "meaning full commit msg"
+git push -u origin main 
+
+git status
+
+----------------
+git log (show details about last commit author nd date)
+
+
+
+
+
+
+

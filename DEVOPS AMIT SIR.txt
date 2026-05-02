@@ -1,0 +1,87 @@
+DEVOPS
+
+DevOps= Development + Operation 
+
+it is a culture + set of practices that helps teams:
+
+1.Build software faster
+2.Release it frequently
+3.Maintain high quality
+
+Simple Definition  (for trainees)
+
+DevOps is way of working where developers and operation teams
+collaborate using automation to deliver software quickly and reliably.
+
+key goals
+
+1.faster delivery
+2.better quality
+3.continuous improvement
+------------------------------------------
+SDLC PHASES:
+
+1. Planning
+            Requirement gathering 
+            Example: we need an e-commerce app
+2. Design
+            System architecture, UI/UX
+3. Development
+            Writing code
+4. Testing
+            Big fixing, Q/A
+5. Deployment
+            Release to users
+6. Maintenance
+            Update, bug fixes
+ 
+Traditional SDLC= Slow
+DevOps SDLC= continuous automation
+
+--------------------------------------------
+CI/CD Continuous Integration + Continuous Delivery/Deployment
+
+Continuous Integration (CI)
+  Developers push code frequently
+  code is automatically
+      Build 
+      Tested
+ 
+Continuous Delivery(CD)
+ Code is ready for deployment anytime
+
+Continuous Deployment(CD)
+ Code automatically goes to production
+
+Pipeline Flow:
+ Code>> Build>> Test>> Deploy>> Monitor
+---------------------------------------------
+
+Why Companies Use DevOps
+
+Speed
+ Faster releases (days>>hours)
+ Continuous delivery
+
+Reliability
+ Automated testing reduces bugs
+ Stable releases
+
+Benefit Summary:
+ Faster time to market
+ Better Collaboration
+ Less manual work 
+ Quick bug fixes
+
+Example:
+Without DevOps: release in 3 months
+With DevOps: releases daily or weekly
+---------------------------------------------
+
+
+
+
+ 
+
+
+

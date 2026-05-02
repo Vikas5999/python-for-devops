@@ -16,3 +16,5 @@ print(type(num1),type(num2))
 res=str(num1)+str(num2)
 print(res)
 print(type(res))
+
+
