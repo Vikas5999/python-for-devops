@@ -11,3 +11,10 @@ Data Types.
 Number(int, float)
 
 Boolean (True/False)
+
+# Conditional statements:
+if else
+multiple if
+ elif
+ 
+  chain nested
